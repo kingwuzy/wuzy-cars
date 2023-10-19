@@ -1,0 +1,44 @@
+.john{font: 5000;
+    background-color: rgb(109, 109, 42);
+    font-size: larger;
+    font-style: inherit;
+    
+ 
+
+}
+
+
+    
+
+.figo{
+    font-style: normal;
+    background-color: rgb(179, 133, 133);
+    box-sizing: initial;
+    border-top: 0em;
+}
+.img-wrapper{
+    width: 40%;
+    display: -ms-flexbox;
+    justify-content: center;
+
+}
+img{
+    width: 200%;
+    height: 90%;
+    
+
+}
+
+.babe{
+text-indent: 100px;
+letter-spacing: 500px;
+letter-spacing: 200;
+line-height: 0.8;
+
+}
+.fine{
+    text-indent: 600px;
+    background-color: rgb(244, 248, 9);
+    width: 500%;
+    justify-content: space-around;
+}

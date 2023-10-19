@@ -1,0 +1,32 @@
+h1{font: 1000;}
+.body{
+    background-color: rgb(252, 252, 8);
+    font-size: large;
+    font-style: inherit;
+}
+.div1{
+    background-color: rgb(198, 177, 236);
+}   
+.div2{
+    background-color: rgb(240, 250, 106);
+    font-size: larger;
+    
+    
+}
+.img-wrap{
+    width: 100%;
+}
+.img-wrap > img{
+    width: 100%;
+}
+.img{
+    border-radius: 20px;
+    padding: 5px;
+    padding-right: 2px;
+}
+.img-wrapper{
+    width: 50%;
+}
+.img-wrapper>img{
+    width: 50%;
+}
